@@ -1,0 +1,216 @@
+
+> client@0.0.0 lint
+> eslint .
+
+
+C:\Users\ignit\OneDrive\Desktop\Trackafam\client\src\contexts\AuthContext.jsx
+  6:14  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\ignit\OneDrive\Desktop\Trackafam\client\src\pages\admin\ApprovalPanel.jsx
+  21:5   error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+  19 |
+  20 |   useEffect(() => {
+> 21 |     fetchUsers();
+     |     ^^^^^^^^^^ Avoid calling setState() directly within an effect
+  22 |   }, [filter]);
+  23 |
+  24 |   const handleStatusChange = async (userId, status) => {  react-hooks/set-state-in-effect
+  22:6   warning  React Hook useEffect has a missing dependency: 'fetchUsers'. Either include it or remove the dependency array                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         react-hooks/exhaustive-deps
+  28:14  error    'err' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       no-unused-vars
+
+C:\Users\ignit\OneDrive\Desktop\Trackafam\client\src\pages\farmer\Dashboard.jsx
+  60:10  error  Error: Cannot create components during render
+
+Components created during render will reset their state each time they are created. Declare components outside of render.
+
+  58 |     <div style={{ animation: 'fadeIn 0.5s ease' }}>
+  59 |       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '1.5rem', marginBottom: '2.5rem' }}>
+> 60 |         <StatCard 
+     |          ^^^^^^^^ This component is created during render
+  61 |           title="Total Livestock" 
+  62 |           value={stats.animals.total} 
+  63 |           unit="Cows" 
+
+  30 |   }, []);
+  31 |
+> 32 |   const StatCard = ({ title, value, unit, icon, color }) => (
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 33 |     <div className="glass-card" style={{ display: 'flex', alignItems: 'center', gap: '1.5rem' }}>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 34 |       <div style={{ 
+     ΓÇª
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 52 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |   );
+     | ^^^^ The component is created during render here
+  54 |
+  55 |   if (stats.loading) return <div>Loading dashboard...</div>;
+  56 |  react-hooks/static-components
+  67:10  error  Error: Cannot create components during render
+
+Components created during render will reset their state each time they are created. Declare components outside of render.
+
+  65 |           color="#1a472a" 
+  66 |         />
+> 67 |         <StatCard 
+     |          ^^^^^^^^ This component is created during render
+  68 |           title="Today's Production" 
+  69 |           value={stats.milk.todayLiters || 0} 
+  70 |           unit="Liters" 
+
+  30 |   }, []);
+  31 |
+> 32 |   const StatCard = ({ title, value, unit, icon, color }) => (
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 33 |     <div className="glass-card" style={{ display: 'flex', alignItems: 'center', gap: '1.5rem' }}>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 34 |       <div style={{ 
+     ΓÇª
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 52 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |   );
+     | ^^^^ The component is created during render here
+  54 |
+  55 |   if (stats.loading) return <div>Loading dashboard...</div>;
+  56 |                                                                                                                                               react-hooks/static-components
+  74:10  error  Error: Cannot create components during render
+
+Components created during render will reset their state each time they are created. Declare components outside of render.
+
+  72 |           color="#dda15e" 
+  73 |         />
+> 74 |         <StatCard 
+     |          ^^^^^^^^ This component is created during render
+  75 |           title="Upcoming Vets" 
+  76 |           value="2" 
+  77 |           unit="Visits" 
+
+  30 |   }, []);
+  31 |
+> 32 |   const StatCard = ({ title, value, unit, icon, color }) => (
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 33 |     <div className="glass-card" style={{ display: 'flex', alignItems: 'center', gap: '1.5rem' }}>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 34 |       <div style={{ 
+     ΓÇª
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 52 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |   );
+     | ^^^^ The component is created during render here
+  54 |
+  55 |   if (stats.loading) return <div>Loading dashboard...</div>;
+  56 |                                                                                                                                                                              react-hooks/static-components
+  81:10  error  Error: Cannot create components during render
+
+Components created during render will reset their state each time they are created. Declare components outside of render.
+
+  79 |           color="#606c38" 
+  80 |         />
+> 81 |         <StatCard 
+     |          ^^^^^^^^ This component is created during render
+  82 |           title="Health Alerts" 
+  83 |           value={stats.animals.summary.find(s => s._id === 'Under Treatment')?.count || 0} 
+  84 |           unit="Critical" 
+
+  30 |   }, []);
+  31 |
+> 32 |   const StatCard = ({ title, value, unit, icon, color }) => (
+     |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 33 |     <div className="glass-card" style={{ display: 'flex', alignItems: 'center', gap: '1.5rem' }}>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 34 |       <div style={{ 
+     ΓÇª
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 52 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |   );
+     | ^^^^ The component is created during render here
+  54 |
+  55 |   if (stats.loading) return <div>Loading dashboard...</div>;
+  56 |                                                                                                     react-hooks/static-components
+
+C:\Users\ignit\OneDrive\Desktop\Trackafam\client\src\pages\farmer\FeedLog.jsx
+  31:5  error  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+  29 |
+  30 |   useEffect(() => {
+> 31 |     fetchData();
+     |     ^^^^^^^^^ Avoid calling setState() directly within an effect
+  32 |   }, []);
+  33 |
+  34 |   const handleSubmit = async (e) => {  react-hooks/set-state-in-effect
+
+C:\Users\ignit\OneDrive\Desktop\Trackafam\client\src\pages\farmer\Livestock.jsx
+  29:5   error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+  27 |
+  28 |   useEffect(() => {
+> 29 |     fetchAnimals();
+     |     ^^^^^^^^^^^^ Avoid calling setState() directly within an effect
+  30 |   }, [search, filter]);
+  31 |
+  32 |   const handleOpenModal = (animal = null) => {  react-hooks/set-state-in-effect
+  30:6   warning  React Hook useEffect has a missing dependency: 'fetchAnimals'. Either include it or remove the dependency array                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         react-hooks/exhaustive-deps
+  63:16  error    'err' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         no-unused-vars
+
+C:\Users\ignit\OneDrive\Desktop\Trackafam\client\src\pages\farmer\MilkLog.jsx
+  35:5  error  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+  33 |
+  34 |   useEffect(() => {
+> 35 |     fetchData();
+     |     ^^^^^^^^^ Avoid calling setState() directly within an effect
+  36 |   }, []);
+  37 |
+  38 |   const handleSubmit = async (e) => {  react-hooks/set-state-in-effect
+
+C:\Users\ignit\OneDrive\Desktop\Trackafam\client\src\pages\farmer\Reports.jsx
+  48:14  error  'err' is defined but never used  no-unused-vars
+
+C:\Users\ignit\OneDrive\Desktop\Trackafam\client\src\pages\farmer\VetRecords.jsx
+  31:5  error  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+  29 |
+  30 |   useEffect(() => {
+> 31 |     fetchData();
+     |     ^^^^^^^^^ Avoid calling setState() directly within an effect
+  32 |   }, []);
+  33 |
+  34 |   const handleSubmit = async (e) => {  react-hooks/set-state-in-effect
+
+Γ£û 15 problems (13 errors, 2 warnings)
+
