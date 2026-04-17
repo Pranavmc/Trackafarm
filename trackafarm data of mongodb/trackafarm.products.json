@@ -1,0 +1,2600 @@
+[{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfd3"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Professional Feed Supply V53",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "SunSeed",
+  "category": "Animal Husbandry",
+  "subcategory": "Feed",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.2,
+  "numReviews": 170,
+  "price": 60.97,
+  "countInStock": 303,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfd4"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Advanced Fruits Supply V14",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "GrowBetter",
+  "category": "Seeds",
+  "subcategory": "Fruits",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.2,
+  "numReviews": 130,
+  "price": 103.83,
+  "countInStock": 228,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfd5"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Durable Dairy Equipment Supply V87",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Animal Husbandry",
+  "subcategory": "Dairy Equipment",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.5,
+  "numReviews": 93,
+  "price": 25.98,
+  "countInStock": 60,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfd6"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Premium Grains Supply V53",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "EcoHarvest",
+  "category": "Seeds",
+  "subcategory": "Grains",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.9,
+  "numReviews": 5,
+  "price": 9.26,
+  "countInStock": 425,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfd7"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Veterinary Supplies Supply V89",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "SunSeed",
+  "category": "Animal Husbandry",
+  "subcategory": "Veterinary Supplies",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.7,
+  "numReviews": 108,
+  "price": 13.64,
+  "countInStock": 489,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfd8"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Advanced Grains Supply V45",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Seeds",
+  "subcategory": "Grains",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.8,
+  "numReviews": 140,
+  "price": 48.75,
+  "countInStock": 42,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfd9"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Organic Supply V70",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "GreenEarth",
+  "category": "Fertilizers",
+  "subcategory": "Organic",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.4,
+  "numReviews": 66,
+  "price": 60.75,
+  "countInStock": 277,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfda"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Premium Chemical Supply V66",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Fertilizers",
+  "subcategory": "Chemical",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.5,
+  "numReviews": 187,
+  "price": 45.56,
+  "countInStock": 428,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfdb"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Nutrient-Rich Liquid Supply V20",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Fertilizers",
+  "subcategory": "Liquid",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.1,
+  "numReviews": 43,
+  "price": 17.11,
+  "countInStock": 168,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfdc"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Premium Herbicides Supply V67",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "GrowBetter",
+  "category": "Agriculture",
+  "subcategory": "Herbicides",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.4,
+  "numReviews": 13,
+  "price": 55.04,
+  "countInStock": 375,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfdd"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Eco-Friendly Soil Enhancers Supply V46",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Agriculture",
+  "subcategory": "Soil Enhancers",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.1,
+  "numReviews": 103,
+  "price": 70.86,
+  "countInStock": 198,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfde"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Eco-Friendly Machinery Attachments Supply V95",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Farm Equipment",
+  "subcategory": "Machinery Attachments",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.3,
+  "numReviews": 155,
+  "price": 49.56,
+  "countInStock": 296,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfdf"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Eco-Friendly Grains Supply V96",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Seeds",
+  "subcategory": "Grains",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.3,
+  "numReviews": 190,
+  "price": 58.9,
+  "countInStock": 192,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfe0"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "High-Yield Hand Tools Supply V85",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "SunSeed",
+  "category": "Farm Equipment",
+  "subcategory": "Hand Tools",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.5,
+  "numReviews": 131,
+  "price": 102.44,
+  "countInStock": 464,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfe1"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "High-Yield Liquid Supply V20",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Fertilizers",
+  "subcategory": "Liquid",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.7,
+  "numReviews": 148,
+  "price": 63.25,
+  "countInStock": 332,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfe2"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Premium Dairy Equipment Supply V11",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Animal Husbandry",
+  "subcategory": "Dairy Equipment",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.4,
+  "numReviews": 143,
+  "price": 75.62,
+  "countInStock": 27,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfe3"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Premium Fruits Supply V78",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "GreenEarth",
+  "category": "Seeds",
+  "subcategory": "Fruits",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.8,
+  "numReviews": 16,
+  "price": 27.81,
+  "countInStock": 264,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfe4"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Advanced Grains Supply V14",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Seeds",
+  "subcategory": "Grains",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.9,
+  "numReviews": 50,
+  "price": 66.08,
+  "countInStock": 406,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfe5"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Durable Fruits Supply V19",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Seeds",
+  "subcategory": "Fruits",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4,
+  "numReviews": 111,
+  "price": 44.01,
+  "countInStock": 268,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfe6"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Durable Dairy Equipment Supply V5",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "EcoHarvest",
+  "category": "Animal Husbandry",
+  "subcategory": "Dairy Equipment",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.8,
+  "numReviews": 7,
+  "price": 31.72,
+  "countInStock": 437,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfe7"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Hand Tools Supply V75",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Farm Equipment",
+  "subcategory": "Hand Tools",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.1,
+  "numReviews": 130,
+  "price": 26.93,
+  "countInStock": 381,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfe8"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Eco-Friendly Machinery Attachments Supply V59",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Farm Equipment",
+  "subcategory": "Machinery Attachments",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.7,
+  "numReviews": 126,
+  "price": 52.77,
+  "countInStock": 331,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfe9"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "High-Yield Machinery Attachments Supply V27",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Farm Equipment",
+  "subcategory": "Machinery Attachments",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.4,
+  "numReviews": 40,
+  "price": 40.19,
+  "countInStock": 212,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfea"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Advanced Irrigation Supply V19",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "GreenEarth",
+  "category": "Farm Equipment",
+  "subcategory": "Irrigation",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.1,
+  "numReviews": 32,
+  "price": 92.63,
+  "countInStock": 229,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfeb"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Advanced Soil Enhancers Supply V5",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "EcoHarvest",
+  "category": "Agriculture",
+  "subcategory": "Soil Enhancers",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.7,
+  "numReviews": 179,
+  "price": 54.98,
+  "countInStock": 286,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfec"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Professional Pesticides Supply V74",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "SunSeed",
+  "category": "Agriculture",
+  "subcategory": "Pesticides",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.3,
+  "numReviews": 55,
+  "price": 29.34,
+  "countInStock": 375,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfed"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Nutrient-Rich Hand Tools Supply V27",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "SunSeed",
+  "category": "Farm Equipment",
+  "subcategory": "Hand Tools",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.1,
+  "numReviews": 175,
+  "price": 75.59,
+  "countInStock": 364,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfee"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Nutrient-Rich Pesticides Supply V71",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Agriculture",
+  "subcategory": "Pesticides",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.5,
+  "numReviews": 102,
+  "price": 71.23,
+  "countInStock": 327,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfef"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Essential Grains Supply V15",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Seeds",
+  "subcategory": "Grains",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.4,
+  "numReviews": 127,
+  "price": 68.49,
+  "countInStock": 403,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bff0"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Soil Enhancers Supply V3",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "EcoHarvest",
+  "category": "Agriculture",
+  "subcategory": "Soil Enhancers",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.6,
+  "numReviews": 50,
+  "price": 21.87,
+  "countInStock": 147,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bff1"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Advanced Herbicides Supply V38",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Agriculture",
+  "subcategory": "Herbicides",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.4,
+  "numReviews": 185,
+  "price": 27.58,
+  "countInStock": 62,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bff2"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Durable Pesticides Supply V94",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Agriculture",
+  "subcategory": "Pesticides",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.2,
+  "numReviews": 2,
+  "price": 72.43,
+  "countInStock": 455,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bff3"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Essential Supplements Supply V47",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Animal Husbandry",
+  "subcategory": "Supplements",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.5,
+  "numReviews": 27,
+  "price": 36.73,
+  "countInStock": 160,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bff4"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Chemical Supply V43",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Fertilizers",
+  "subcategory": "Chemical",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.5,
+  "numReviews": 137,
+  "price": 85.43,
+  "countInStock": 170,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bff5"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Professional Grains Supply V47",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Seeds",
+  "subcategory": "Grains",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.1,
+  "numReviews": 135,
+  "price": 23.85,
+  "countInStock": 147,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bff6"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Eco-Friendly Chemical Supply V43",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Fertilizers",
+  "subcategory": "Chemical",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.5,
+  "numReviews": 129,
+  "price": 49.46,
+  "countInStock": 414,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bff7"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Advanced Dairy Equipment Supply V73",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "GrowBetter",
+  "category": "Animal Husbandry",
+  "subcategory": "Dairy Equipment",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.1,
+  "numReviews": 82,
+  "price": 7.95,
+  "countInStock": 249,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bff8"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Essential Irrigation Supply V12",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "GreenEarth",
+  "category": "Farm Equipment",
+  "subcategory": "Irrigation",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.8,
+  "numReviews": 59,
+  "price": 8.44,
+  "countInStock": 122,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bff9"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Durable Vegetables Supply V20",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "GreenEarth",
+  "category": "Seeds",
+  "subcategory": "Vegetables",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4,
+  "numReviews": 110,
+  "price": 16.97,
+  "countInStock": 502,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bffa"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Nutrient-Rich Irrigation Supply V47",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Farm Equipment",
+  "subcategory": "Irrigation",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.4,
+  "numReviews": 172,
+  "price": 36.12,
+  "countInStock": 46,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bffb"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Heavy Duty Fruits Supply V0",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "EcoHarvest",
+  "category": "Seeds",
+  "subcategory": "Fruits",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.3,
+  "numReviews": 126,
+  "price": 87.58,
+  "countInStock": 323,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bffc"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Fruits Supply V30",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "SunSeed",
+  "category": "Seeds",
+  "subcategory": "Fruits",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.6,
+  "numReviews": 162,
+  "price": 78.59,
+  "countInStock": 71,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bffd"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Durable Supplements Supply V25",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Animal Husbandry",
+  "subcategory": "Supplements",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4,
+  "numReviews": 182,
+  "price": 33.17,
+  "countInStock": 201,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bffe"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Eco-Friendly Pesticides Supply V29",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Agriculture",
+  "subcategory": "Pesticides",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.3,
+  "numReviews": 41,
+  "price": 85.75,
+  "countInStock": 469,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfff"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Professional Organic Supply V64",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "GrowBetter",
+  "category": "Fertilizers",
+  "subcategory": "Organic",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.3,
+  "numReviews": 156,
+  "price": 93.75,
+  "countInStock": 39,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c000"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Nutrient-Rich Soil Enhancers Supply V81",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Agriculture",
+  "subcategory": "Soil Enhancers",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4,
+  "numReviews": 139,
+  "price": 67.09,
+  "countInStock": 435,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c001"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Herbicides Supply V97",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Agriculture",
+  "subcategory": "Herbicides",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4,
+  "numReviews": 128,
+  "price": 54.26,
+  "countInStock": 214,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c002"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Eco-Friendly Hand Tools Supply V20",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Farm Equipment",
+  "subcategory": "Hand Tools",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4,
+  "numReviews": 183,
+  "price": 19.86,
+  "countInStock": 73,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c003"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Essential Fruits Supply V46",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "GrowBetter",
+  "category": "Seeds",
+  "subcategory": "Fruits",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.7,
+  "numReviews": 192,
+  "price": 75.8,
+  "countInStock": 129,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c004"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Soil Enhancers Supply V18",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Agriculture",
+  "subcategory": "Soil Enhancers",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.3,
+  "numReviews": 70,
+  "price": 104.96,
+  "countInStock": 237,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c005"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Eco-Friendly Veterinary Supplies Supply V52",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Animal Husbandry",
+  "subcategory": "Veterinary Supplies",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.6,
+  "numReviews": 32,
+  "price": 41.12,
+  "countInStock": 377,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c006"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Nutrient-Rich Machinery Attachments Supply V17",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Farm Equipment",
+  "subcategory": "Machinery Attachments",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.4,
+  "numReviews": 176,
+  "price": 98.43,
+  "countInStock": 172,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c007"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Hand Tools Supply V73",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "SunSeed",
+  "category": "Farm Equipment",
+  "subcategory": "Hand Tools",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.6,
+  "numReviews": 1,
+  "price": 48.74,
+  "countInStock": 343,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c008"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Premium Dairy Equipment Supply V93",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Animal Husbandry",
+  "subcategory": "Dairy Equipment",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.5,
+  "numReviews": 10,
+  "price": 12.16,
+  "countInStock": 457,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c009"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Premium Liquid Supply V1",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Fertilizers",
+  "subcategory": "Liquid",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.4,
+  "numReviews": 70,
+  "price": 99.26,
+  "countInStock": 39,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c00a"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Pesticides Supply V61",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Agriculture",
+  "subcategory": "Pesticides",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.3,
+  "numReviews": 160,
+  "price": 30.21,
+  "countInStock": 45,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c00b"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Essential Machinery Attachments Supply V48",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Farm Equipment",
+  "subcategory": "Machinery Attachments",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.2,
+  "numReviews": 184,
+  "price": 91.73,
+  "countInStock": 164,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c00c"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Pesticides Supply V48",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Agriculture",
+  "subcategory": "Pesticides",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.9,
+  "numReviews": 130,
+  "price": 81.59,
+  "countInStock": 348,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c00d"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "High-Yield Hand Tools Supply V60",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "GrowBetter",
+  "category": "Farm Equipment",
+  "subcategory": "Hand Tools",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.7,
+  "numReviews": 167,
+  "price": 14.97,
+  "countInStock": 383,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c00e"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Heavy Duty Chemical Supply V17",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "GreenEarth",
+  "category": "Fertilizers",
+  "subcategory": "Chemical",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.8,
+  "numReviews": 178,
+  "price": 33.68,
+  "countInStock": 228,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c00f"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Premium Soil Enhancers Supply V39",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "GreenEarth",
+  "category": "Agriculture",
+  "subcategory": "Soil Enhancers",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.2,
+  "numReviews": 88,
+  "price": 74.38,
+  "countInStock": 458,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c010"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Eco-Friendly Chemical Supply V86",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Fertilizers",
+  "subcategory": "Chemical",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.6,
+  "numReviews": 71,
+  "price": 37.83,
+  "countInStock": 128,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c011"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "High-Yield Feed Supply V84",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "GrowBetter",
+  "category": "Animal Husbandry",
+  "subcategory": "Feed",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.8,
+  "numReviews": 167,
+  "price": 14.53,
+  "countInStock": 143,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c012"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "High-Yield Supplements Supply V1",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Animal Husbandry",
+  "subcategory": "Supplements",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.7,
+  "numReviews": 140,
+  "price": 26.92,
+  "countInStock": 317,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c013"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Grains Supply V88",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Seeds",
+  "subcategory": "Grains",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.8,
+  "numReviews": 16,
+  "price": 97.79,
+  "countInStock": 378,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c014"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Professional Liquid Supply V59",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Fertilizers",
+  "subcategory": "Liquid",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.1,
+  "numReviews": 55,
+  "price": 93.86,
+  "countInStock": 102,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c015"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Supplements Supply V99",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Animal Husbandry",
+  "subcategory": "Supplements",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.1,
+  "numReviews": 47,
+  "price": 82.96,
+  "countInStock": 120,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c016"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Nutrient-Rich Feed Supply V26",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "GreenEarth",
+  "category": "Animal Husbandry",
+  "subcategory": "Feed",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.2,
+  "numReviews": 181,
+  "price": 104.95,
+  "countInStock": 449,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c017"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Heavy Duty Hand Tools Supply V71",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "GreenEarth",
+  "category": "Farm Equipment",
+  "subcategory": "Hand Tools",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.9,
+  "numReviews": 29,
+  "price": 16,
+  "countInStock": 381,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c018"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Professional Chemical Supply V3",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "GrowBetter",
+  "category": "Fertilizers",
+  "subcategory": "Chemical",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.2,
+  "numReviews": 159,
+  "price": 49.57,
+  "countInStock": 453,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c019"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Heavy Duty Fruits Supply V34",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Seeds",
+  "subcategory": "Fruits",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.4,
+  "numReviews": 125,
+  "price": 95.95,
+  "countInStock": 250,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c01a"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Eco-Friendly Fruits Supply V76",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Seeds",
+  "subcategory": "Fruits",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.1,
+  "numReviews": 2,
+  "price": 50.66,
+  "countInStock": 80,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c01b"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Advanced Soil Enhancers Supply V30",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Agriculture",
+  "subcategory": "Soil Enhancers",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.9,
+  "numReviews": 170,
+  "price": 67.15,
+  "countInStock": 18,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c01c"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Heavy Duty Supplements Supply V13",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Animal Husbandry",
+  "subcategory": "Supplements",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.3,
+  "numReviews": 20,
+  "price": 98.57,
+  "countInStock": 176,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c01d"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Professional Vegetables Supply V22",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Seeds",
+  "subcategory": "Vegetables",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.9,
+  "numReviews": 47,
+  "price": 78.27,
+  "countInStock": 431,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c01e"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Heavy Duty Hand Tools Supply V58",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Farm Equipment",
+  "subcategory": "Hand Tools",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.2,
+  "numReviews": 47,
+  "price": 91.21,
+  "countInStock": 124,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c01f"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Professional Machinery Attachments Supply V63",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "EcoHarvest",
+  "category": "Farm Equipment",
+  "subcategory": "Machinery Attachments",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.2,
+  "numReviews": 169,
+  "price": 77.01,
+  "countInStock": 138,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c020"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Heavy Duty Dairy Equipment Supply V51",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "SunSeed",
+  "category": "Animal Husbandry",
+  "subcategory": "Dairy Equipment",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.6,
+  "numReviews": 82,
+  "price": 17.23,
+  "countInStock": 245,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c021"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Premium Chemical Supply V31",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "SunSeed",
+  "category": "Fertilizers",
+  "subcategory": "Chemical",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.3,
+  "numReviews": 89,
+  "price": 60.13,
+  "countInStock": 135,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c022"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Durable Vegetables Supply V8",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "SunSeed",
+  "category": "Seeds",
+  "subcategory": "Vegetables",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.1,
+  "numReviews": 28,
+  "price": 100.77,
+  "countInStock": 199,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c023"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Heavy Duty Organic Supply V13",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Fertilizers",
+  "subcategory": "Organic",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.4,
+  "numReviews": 141,
+  "price": 5.57,
+  "countInStock": 137,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c024"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Heavy Duty Chemical Supply V94",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Fertilizers",
+  "subcategory": "Chemical",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 5,
+  "numReviews": 190,
+  "price": 85.2,
+  "countInStock": 104,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c025"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Dairy Equipment Supply V53",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Animal Husbandry",
+  "subcategory": "Dairy Equipment",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.9,
+  "numReviews": 84,
+  "price": 16.64,
+  "countInStock": 249,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c026"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "High-Yield Soil Enhancers Supply V38",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Agriculture",
+  "subcategory": "Soil Enhancers",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.3,
+  "numReviews": 121,
+  "price": 87.96,
+  "countInStock": 360,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c027"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Nutrient-Rich Soil Enhancers Supply V39",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "GrowBetter",
+  "category": "Agriculture",
+  "subcategory": "Soil Enhancers",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.7,
+  "numReviews": 119,
+  "price": 73.68,
+  "countInStock": 334,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c028"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Nutrient-Rich Pesticides Supply V47",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "SunSeed",
+  "category": "Agriculture",
+  "subcategory": "Pesticides",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 5,
+  "numReviews": 67,
+  "price": 102.56,
+  "countInStock": 320,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c029"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "High-Yield Fruits Supply V70",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "GrowBetter",
+  "category": "Seeds",
+  "subcategory": "Fruits",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.9,
+  "numReviews": 70,
+  "price": 80.64,
+  "countInStock": 357,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c02a"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Advanced Dairy Equipment Supply V53",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Animal Husbandry",
+  "subcategory": "Dairy Equipment",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4,
+  "numReviews": 150,
+  "price": 6.66,
+  "countInStock": 159,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c02b"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Durable Vegetables Supply V45",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "SunSeed",
+  "category": "Seeds",
+  "subcategory": "Vegetables",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.2,
+  "numReviews": 92,
+  "price": 15,
+  "countInStock": 138,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c02c"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Essential Machinery Attachments Supply V26",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Farm Equipment",
+  "subcategory": "Machinery Attachments",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.9,
+  "numReviews": 62,
+  "price": 55.82,
+  "countInStock": 321,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c02d"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Heavy Duty Feed Supply V23",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Animal Husbandry",
+  "subcategory": "Feed",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.5,
+  "numReviews": 88,
+  "price": 73.74,
+  "countInStock": 416,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c02e"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Essential Fruits Supply V9",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Seeds",
+  "subcategory": "Fruits",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.6,
+  "numReviews": 88,
+  "price": 25.27,
+  "countInStock": 492,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c02f"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Pesticides Supply V44",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "AgriPro",
+  "category": "Agriculture",
+  "subcategory": "Pesticides",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.2,
+  "numReviews": 120,
+  "price": 9.04,
+  "countInStock": 68,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c030"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Premium Soil Enhancers Supply V81",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "FarmTools",
+  "category": "Agriculture",
+  "subcategory": "Soil Enhancers",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.1,
+  "numReviews": 43,
+  "price": 7.33,
+  "countInStock": 327,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c031"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Organic Grains Supply V84",
+  "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?auto=format&fit=crop&q=80&w=700",
+  "brand": "DairyTech",
+  "category": "Seeds",
+  "subcategory": "Grains",
+  "description": "This is a high quality seeds product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.7,
+  "numReviews": 87,
+  "price": 13.36,
+  "countInStock": 438,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c032"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Nutrient-Rich Veterinary Supplies Supply V59",
+  "image": "https://images.unsplash.com/photo-1596434451740-4965cbdab4c4?auto=format&fit=crop&q=80&w=700",
+  "brand": "EcoHarvest",
+  "category": "Animal Husbandry",
+  "subcategory": "Veterinary Supplies",
+  "description": "This is a high quality animal husbandry product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.3,
+  "numReviews": 107,
+  "price": 81.46,
+  "countInStock": 33,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c033"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "High-Yield Irrigation Supply V78",
+  "image": "https://images.unsplash.com/photo-1416879598555-081837136015?auto=format&fit=crop&q=80&w=700",
+  "brand": "NutriBull",
+  "category": "Farm Equipment",
+  "subcategory": "Irrigation",
+  "description": "This is a high quality farm equipment product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4.2,
+  "numReviews": 10,
+  "price": 78.93,
+  "countInStock": 188,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c034"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Advanced Organic Supply V0",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "EcoHarvest",
+  "category": "Fertilizers",
+  "subcategory": "Organic",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 4,
+  "numReviews": 36,
+  "price": 31.33,
+  "countInStock": 266,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c035"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Essential Liquid Supply V0",
+  "image": "https://images.unsplash.com/photo-1628183236082-8bcfe021fd8e?auto=format&fit=crop&q=80&w=700",
+  "brand": "SunSeed",
+  "category": "Fertilizers",
+  "subcategory": "Liquid",
+  "description": "This is a high quality fertilizers product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.4,
+  "numReviews": 35,
+  "price": 38,
+  "countInStock": 35,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c036"
+  },
+  "seller": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Eco-Friendly Pesticides Supply V44",
+  "image": "https://images.unsplash.com/photo-1592982537447-6f2c3c13ebd2?auto=format&fit=crop&q=80&w=700",
+  "brand": "EcoHarvest",
+  "category": "Agriculture",
+  "subcategory": "Pesticides",
+  "description": "This is a high quality agriculture product. Essential for modern farming and guaranteed to improve results.",
+  "rating": 3.9,
+  "numReviews": 148,
+  "price": 11.43,
+  "countInStock": 295,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.784Z"
+  }
+}]

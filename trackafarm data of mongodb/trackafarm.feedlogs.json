@@ -1,0 +1,875 @@
+[{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf8a"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1d"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-25T09:14:23.658Z"
+  },
+  "feedType": "Concentrate",
+  "feedQuantityKg": 5.3180378520217815,
+  "waterLiters": 47.742064341582335,
+  "cost": 68.24767995242647,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.659Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf8c"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1d"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-24T09:14:23.661Z"
+  },
+  "feedType": "Dairy Meal",
+  "feedQuantityKg": 9.492067828181558,
+  "waterLiters": 48.31673516200385,
+  "cost": 51.88350691886917,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.661Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf8e"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1d"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-23T09:14:23.662Z"
+  },
+  "feedType": "Silage",
+  "feedQuantityKg": 5.408033759406091,
+  "waterLiters": 45.14145558061447,
+  "cost": 58.65170940234874,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.663Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf90"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1d"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-22T09:14:23.664Z"
+  },
+  "feedType": "Dairy Meal",
+  "feedQuantityKg": 7.926691847144904,
+  "waterLiters": 48.07521274365847,
+  "cost": 69.24669568384441,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.664Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf92"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1d"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-21T09:14:23.665Z"
+  },
+  "feedType": "Hay",
+  "feedQuantityKg": 8.531842060173268,
+  "waterLiters": 41.98164296893032,
+  "cost": 67.7176443684594,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.665Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf94"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1d"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-20T09:14:23.666Z"
+  },
+  "feedType": "Concentrate",
+  "feedQuantityKg": 7.5886030425129585,
+  "waterLiters": 49.63375476206181,
+  "cost": 82.59068636942047,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.667Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf96"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1d"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-19T09:14:23.668Z"
+  },
+  "feedType": "Concentrate",
+  "feedQuantityKg": 8.636011339952876,
+  "waterLiters": 39.578378489658284,
+  "cost": 90.63792863481191,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.669Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf98"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1f"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-25T09:14:23.670Z"
+  },
+  "feedType": "Silage",
+  "feedQuantityKg": 6.623484922167422,
+  "waterLiters": 31.72140477895324,
+  "cost": 50.227214494779396,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.670Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf9a"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1f"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-24T09:14:23.672Z"
+  },
+  "feedType": "Concentrate",
+  "feedQuantityKg": 9.356711044307602,
+  "waterLiters": 33.73716376416009,
+  "cost": 84.20313819910794,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.672Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf9c"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1f"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-23T09:14:23.673Z"
+  },
+  "feedType": "Hay",
+  "feedQuantityKg": 7.7469869254531405,
+  "waterLiters": 43.97234992569254,
+  "cost": 95.17471103960581,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.673Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf9e"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1f"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-22T09:14:23.674Z"
+  },
+  "feedType": "Dairy Meal",
+  "feedQuantityKg": 9.487998295886747,
+  "waterLiters": 41.48635114331224,
+  "cost": 96.11124160817063,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.675Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfa0"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1f"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-21T09:14:23.676Z"
+  },
+  "feedType": "Concentrate",
+  "feedQuantityKg": 6.443922714648436,
+  "waterLiters": 40.14833031499251,
+  "cost": 72.7113171542035,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.676Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfa2"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1f"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-20T09:14:23.677Z"
+  },
+  "feedType": "Concentrate",
+  "feedQuantityKg": 9.833927914455144,
+  "waterLiters": 34.27647594901683,
+  "cost": 59.12414154638402,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfa4"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1f"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-19T09:14:23.678Z"
+  },
+  "feedType": "Concentrate",
+  "feedQuantityKg": 7.463615928038877,
+  "waterLiters": 31.760429294472626,
+  "cost": 50.04915243296784,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfa6"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd21"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-25T09:14:23.679Z"
+  },
+  "feedType": "Silage",
+  "feedQuantityKg": 7.065820849134837,
+  "waterLiters": 48.58371897818597,
+  "cost": 69.63073538137442,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfa8"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd21"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-24T09:14:23.680Z"
+  },
+  "feedType": "Dairy Meal",
+  "feedQuantityKg": 5.030577058474098,
+  "waterLiters": 44.27031301628331,
+  "cost": 90.39140031579609,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfaa"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd21"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-23T09:14:23.681Z"
+  },
+  "feedType": "Hay",
+  "feedQuantityKg": 5.437472298274818,
+  "waterLiters": 49.581149937892164,
+  "cost": 76.2855494934239,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.681Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfac"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd21"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-22T09:14:23.682Z"
+  },
+  "feedType": "Hay",
+  "feedQuantityKg": 6.113451699697522,
+  "waterLiters": 41.03102442054094,
+  "cost": 50.232331198691774,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfae"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd21"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-21T09:14:23.683Z"
+  },
+  "feedType": "Silage",
+  "feedQuantityKg": 8.292170500558413,
+  "waterLiters": 47.02152572188225,
+  "cost": 67.13028640608466,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfb0"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd21"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-20T09:14:23.684Z"
+  },
+  "feedType": "Dairy Meal",
+  "feedQuantityKg": 8.70787282152474,
+  "waterLiters": 45.603217491058416,
+  "cost": 98.78293507874261,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.685Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfb2"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd21"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-19T09:14:23.685Z"
+  },
+  "feedType": "Silage",
+  "feedQuantityKg": 7.273736314784642,
+  "waterLiters": 42.666885524900195,
+  "cost": 58.98002972123148,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfb4"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd23"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-25T09:14:23.687Z"
+  },
+  "feedType": "Hay",
+  "feedQuantityKg": 5.795088560208957,
+  "waterLiters": 31.932903426853606,
+  "cost": 50.473858099382355,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.687Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfb6"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd23"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-24T09:14:23.688Z"
+  },
+  "feedType": "Silage",
+  "feedQuantityKg": 7.75123756907732,
+  "waterLiters": 35.595679206009684,
+  "cost": 99.84706762379834,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.688Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfb8"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd23"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-23T09:14:23.690Z"
+  },
+  "feedType": "Concentrate",
+  "feedQuantityKg": 5.33877863840022,
+  "waterLiters": 43.60506158623072,
+  "cost": 54.00732560022035,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.690Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfba"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd23"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-22T09:14:23.691Z"
+  },
+  "feedType": "Dairy Meal",
+  "feedQuantityKg": 9.534831844574919,
+  "waterLiters": 37.625103328394395,
+  "cost": 52.43360711633653,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.692Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfbc"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd23"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-21T09:14:23.693Z"
+  },
+  "feedType": "Dairy Meal",
+  "feedQuantityKg": 7.828796510312384,
+  "waterLiters": 40.12641560321357,
+  "cost": 94.41012111879718,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.693Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfbe"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd23"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-20T09:14:23.694Z"
+  },
+  "feedType": "Hay",
+  "feedQuantityKg": 7.057961737973049,
+  "waterLiters": 40.43727095123657,
+  "cost": 50.981467444296186,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.694Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfc0"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd23"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-19T09:14:23.695Z"
+  },
+  "feedType": "Silage",
+  "feedQuantityKg": 6.199355241011046,
+  "waterLiters": 45.18654099438702,
+  "cost": 75.8858471063003,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.696Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfc2"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd25"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-25T09:14:23.697Z"
+  },
+  "feedType": "Silage",
+  "feedQuantityKg": 9.519829362327233,
+  "waterLiters": 42.3341447121345,
+  "cost": 73.47306615305745,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.697Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.697Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfc4"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd25"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-24T09:14:23.699Z"
+  },
+  "feedType": "Silage",
+  "feedQuantityKg": 7.287195369908764,
+  "waterLiters": 37.63516912940622,
+  "cost": 90.09050042106699,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.700Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfc6"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd25"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-23T09:14:23.701Z"
+  },
+  "feedType": "Silage",
+  "feedQuantityKg": 7.219818063050186,
+  "waterLiters": 46.9209233272103,
+  "cost": 86.22977175533629,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.701Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfc8"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd25"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-22T09:14:23.703Z"
+  },
+  "feedType": "Hay",
+  "feedQuantityKg": 5.035276940899899,
+  "waterLiters": 45.91191187894814,
+  "cost": 57.78022961963538,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.703Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfca"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd25"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-21T09:14:23.704Z"
+  },
+  "feedType": "Concentrate",
+  "feedQuantityKg": 5.852112646927894,
+  "waterLiters": 30.19167168744793,
+  "cost": 65.71637675252131,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.704Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfcc"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd25"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-20T09:14:23.705Z"
+  },
+  "feedType": "Hay",
+  "feedQuantityKg": 8.746324489778283,
+  "waterLiters": 43.9865813317686,
+  "cost": 64.02140434391195,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.706Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfce"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd25"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "date": {
+    "$date": "2026-03-19T09:14:23.707Z"
+  },
+  "feedType": "Hay",
+  "feedQuantityKg": 6.507162099113928,
+  "waterLiters": 38.40895716929378,
+  "cost": 66.48451953499897,
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.707Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.707Z"
+  },
+  "__v": 0
+}]

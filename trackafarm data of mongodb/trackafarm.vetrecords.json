@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf80"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1d"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "type": "Checkup",
+  "medicine": "Ivermectin",
+  "dosage": "10ml",
+  "cost": 250,
+  "date": {
+    "$date": "2026-03-10T09:14:23.647Z"
+  },
+  "nextDueDate": {
+    "$date": "2026-04-09T09:14:23.647Z"
+  },
+  "veterinarianName": "Dr. Priya Sharma",
+  "status": "Completed",
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.648Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf82"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd1f"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "type": "Vaccination",
+  "medicine": "Ivermectin",
+  "dosage": "10ml",
+  "cost": 250,
+  "date": {
+    "$date": "2026-03-10T09:14:23.650Z"
+  },
+  "nextDueDate": {
+    "$date": "2026-04-09T09:14:23.650Z"
+  },
+  "veterinarianName": "Dr. Priya Sharma",
+  "status": "Completed",
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.651Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf84"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd21"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "type": "Deworming",
+  "medicine": "Ivermectin",
+  "dosage": "10ml",
+  "cost": 250,
+  "date": {
+    "$date": "2026-03-10T09:14:23.653Z"
+  },
+  "nextDueDate": {
+    "$date": "2026-04-09T09:14:23.653Z"
+  },
+  "veterinarianName": "Dr. Priya Sharma",
+  "status": "Completed",
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.654Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf86"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd23"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "type": "Checkup",
+  "medicine": "Ivermectin",
+  "dosage": "10ml",
+  "cost": 250,
+  "date": {
+    "$date": "2026-03-10T09:14:23.655Z"
+  },
+  "nextDueDate": {
+    "$date": "2026-04-09T09:14:23.655Z"
+  },
+  "veterinarianName": "Dr. Priya Sharma",
+  "status": "Completed",
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.656Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bf88"
+  },
+  "animalId": {
+    "$oid": "69c3a76f67a97905b462bd25"
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "type": "Vaccination",
+  "medicine": "Ivermectin",
+  "dosage": "10ml",
+  "cost": 250,
+  "date": {
+    "$date": "2026-03-10T09:14:23.657Z"
+  },
+  "nextDueDate": {
+    "$date": "2026-04-09T09:14:23.657Z"
+  },
+  "veterinarianName": "Dr. Priya Sharma",
+  "status": "Completed",
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.657Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.657Z"
+  },
+  "__v": 0
+}]

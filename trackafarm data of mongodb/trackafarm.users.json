@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bd18"
+  },
+  "name": "Admin User",
+  "email": "admin@trackafarm.com",
+  "password": "$2a$10$KJaarT5xlgh1uwC7bZsbPuyOIcJPZ99c2gI4e/pv52P3auv9slgp6",
+  "role": "admin",
+  "status": "approved",
+  "farmName": "TrackaFarm HQ",
+  "phone": "9876543210",
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.427Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "name": "Ravi Kumar",
+  "email": "farmer@trackafarm.com",
+  "password": "$2a$10$D5NxjDaOoKFauvFm5c15gebzXz430GgXD/Mt.SsaqlgHIy9PDsJUa",
+  "role": "farmer",
+  "status": "approved",
+  "farmName": "Green Meadows Farm",
+  "phone": "9876543211",
+  "location": "Karnataka, India",
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.499Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bfd0"
+  },
+  "name": "Agri Supplies Co.",
+  "email": "seller@trackafarm.com",
+  "password": "$2a$10$qGA.cPx65BJ84PGtybOOHO9QFk/5pJXtsUoTH/udtmcn6H3xV6jhW",
+  "role": "seller",
+  "status": "approved",
+  "farmName": "Agri Supplies Co.",
+  "phone": "9876543213",
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.709Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462c038"
+  },
+  "name": "Suresh Patil",
+  "email": "pending@trackafarm.com",
+  "password": "$2a$10$URP.BdkUzBIPwkxlF3VlLOCT.oRiEFiDL8.5ZHeETYgSFP2zih3bO",
+  "role": "farmer",
+  "status": "pending",
+  "farmName": "Sunrise Dairy",
+  "phone": "9876543212",
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.789Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.789Z"
+  },
+  "__v": 0
+}]

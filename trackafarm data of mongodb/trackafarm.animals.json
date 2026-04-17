@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bd1d"
+  },
+  "tagId": "COW001",
+  "name": "Cow 1",
+  "breed": "Jersey",
+  "dob": {
+    "$date": "2020-01-15T00:00:00.000Z"
+  },
+  "color": "Black & White",
+  "healthStatus": "Healthy",
+  "gender": "Female",
+  "currentPregnancy": {
+    "isPregnant": false
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "isActive": true,
+  "healthEvents": [],
+  "reproductionEvents": [],
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.563Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.563Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bd1f"
+  },
+  "tagId": "COW002",
+  "name": "Cow 2",
+  "breed": "Holstein",
+  "dob": {
+    "$date": "2021-01-15T00:00:00.000Z"
+  },
+  "color": "Brown",
+  "healthStatus": "Vaccinated",
+  "gender": "Female",
+  "currentPregnancy": {
+    "isPregnant": false
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "isActive": true,
+  "healthEvents": [],
+  "reproductionEvents": [],
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.565Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bd21"
+  },
+  "tagId": "COW003",
+  "name": "Cow 3",
+  "breed": "Gir",
+  "dob": {
+    "$date": "2022-01-15T00:00:00.000Z"
+  },
+  "color": "Tawny",
+  "healthStatus": "Under Treatment",
+  "gender": "Female",
+  "currentPregnancy": {
+    "isPregnant": false
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "isActive": true,
+  "healthEvents": [],
+  "reproductionEvents": [],
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.567Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bd23"
+  },
+  "tagId": "COW004",
+  "name": "Cow 4",
+  "breed": "Sahiwal",
+  "dob": {
+    "$date": "2023-01-15T00:00:00.000Z"
+  },
+  "color": "White",
+  "healthStatus": "Healthy",
+  "gender": "Female",
+  "currentPregnancy": {
+    "isPregnant": false
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "isActive": true,
+  "healthEvents": [],
+  "reproductionEvents": [],
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.569Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3a76f67a97905b462bd25"
+  },
+  "tagId": "COW005",
+  "name": "Cow 5",
+  "breed": "HF Cross",
+  "dob": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  },
+  "color": "Grey",
+  "healthStatus": "Healthy",
+  "gender": "Female",
+  "currentPregnancy": {
+    "isPregnant": false
+  },
+  "farmerId": {
+    "$oid": "69c3a76f67a97905b462bd1b"
+  },
+  "isActive": true,
+  "healthEvents": [],
+  "reproductionEvents": [],
+  "createdAt": {
+    "$date": "2026-03-25T09:14:23.570Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T09:14:23.570Z"
+  },
+  "__v": 0
+}]

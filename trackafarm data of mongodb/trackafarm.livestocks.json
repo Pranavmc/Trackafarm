@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "69baa44dcd66efac5592c275"
+  },
+  "farmer": {
+    "$oid": "69baa306cd66efac5592c1e4"
+  },
+  "tagId": "1234567",
+  "name": "reshma",
+  "breed": "hybrid",
+  "dateOfBirth": {
+    "$date": "2026-03-10T00:00:00.000Z"
+  },
+  "gender": "male",
+  "status": "under-treatment",
+  "weightKg": 150,
+  "notes": "favourite",
+  "createdAt": {
+    "$date": "2026-03-18T13:10:37.070Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-18T13:10:37.070Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "69c2b1bdbd568a95834dc18e"
+  },
+  "farmerId": {
+    "$oid": "69c1513c5c95396d020165a1"
+  },
+  "type": "Revenue",
+  "category": "Animal Sale",
+  "amount": 200000,
+  "date": {
+    "$date": "2026-03-24T00:00:00.000Z"
+  },
+  "description": "sold cow1",
+  "status": "Paid",
+  "createdAt": {
+    "$date": "2026-03-24T15:46:05.874Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-24T15:46:05.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2b1ddbd568a95834dc195"
+  },
+  "farmerId": {
+    "$oid": "69c1513c5c95396d020165a1"
+  },
+  "type": "Expense",
+  "category": "Medicine",
+  "amount": 10000,
+  "date": {
+    "$date": "2026-03-24T00:00:00.000Z"
+  },
+  "description": "",
+  "status": "Paid",
+  "createdAt": {
+    "$date": "2026-03-24T15:46:37.031Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-24T15:46:37.031Z"
+  },
+  "__v": 0
+}]
