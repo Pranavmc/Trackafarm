@@ -6,46 +6,38 @@ This frontend is built with React + Vite and is designed to work with the Tracka
 
 You can deploy this project for free without buying a domain by using:
 
-- Frontend: Vercel
-- Backend: Koyeb
-- Database: MongoDB Atlas free tier
+- **Frontend:** [Vercel](https://vercel.app)
+- **Backend:** [Render](https://render.com)
+- **Database:** [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) (Free tier)
 
 Example deployment URLs:
 
 - Frontend: `https://trackafarm.vercel.app`
-- Backend: `https://trackafarm-api.koyeb.app`
+- Backend: `https://trackafarm-api.onrender.com`
 
-## 1. Deploy the Backend on Koyeb
+## 1. Deploy the Backend on Render
 
-Create a new Web Service on Koyeb from your GitHub repository.
+Create a new **Web Service** on Render from your GitHub repository.
 
 Use these settings:
 
-- Root directory: `server`
-- Build command: leave default or use `npm install`
-- Start command: `npm start`
+- **Root directory:** `server`
+- **Environment:** `Node`
+- **Build command:** `npm install`
+- **Start command:** `npm start`
 
 Add these environment variables:
 
-- `MONGO_URI=your-mongodb-atlas-connection-string`
-- `JWT_SECRET=your-long-random-secret`
-- `CLIENT_URL=https://your-frontend-name.vercel.app`
-- `EMAIL_USER=your-email@gmail.com`
-- `EMAIL_PASS=your-email-app-password`
+- `MONGO_URI`: your MongoDB Atlas connection string
+- `JWT_SECRET`: a long random string
+- `CLIENT_URL`: `https://your-frontend-name.vercel.app`
+- `EMAIL_USER`: your email address
+- `EMAIL_PASS`: your email app password
 
-After deployment, Koyeb will give you a URL like:
+After deployment, Render will give you a URL like:
+`https://trackafarm-api.onrender.com`
 
-`https://your-backend-name.koyeb.app`
-
-Test it in the browser:
-
-`https://your-backend-name.koyeb.app/`
-
-You should see:
-
-```json
-{ "message": "TrackaFarm API Running" }
-```
+---
 
 ## 2. Deploy the Frontend on Vercel
 
@@ -53,26 +45,30 @@ Import the same GitHub repository into Vercel.
 
 Use these settings:
 
-- Root directory: `client`
-- Framework preset: `Vite`
-- Build command: `npm run build`
-- Output directory: `dist`
+- **Root directory:** `client`
+- **Framework preset:** `Vite`
+- **Build command:** `npm run build`
+- **Output directory:** `dist`
 
-Add this environment variable:
+### Configuration for Routing
 
-- `VITE_API_BASE_URL=https://your-backend-name.koyeb.app/api`
+A `vercel.json` file is included in the `client` directory to handle Single Page Application (SPA) routing. This ensures that refreshing the page on routes like `/dashboard` works correctly.
 
-After deployment, Vercel will give you a URL like:
+### Environment Variables
 
-`https://your-frontend-name.vercel.app`
+Add this environment variable in the Vercel dashboard:
+
+- `VITE_API_BASE_URL`: `https://your-backend-name.onrender.com/api`
+
+---
 
 ## 3. Final Connection Step
 
-Once the frontend is deployed, copy the final Vercel URL and update the backend variable:
+Once the frontend is deployed, copy the final Vercel URL and update the **backend** variable on Render:
 
 - `CLIENT_URL=https://your-frontend-name.vercel.app`
 
-Then redeploy the backend on Koyeb once so CORS allows your frontend.
+Then redeploy the backend once so CORS allows your frontend to communicate with it.
 
 ## 4. Environment Files
 
@@ -82,13 +78,11 @@ Example environment files are already included:
 - Frontend: [.env.example](./.env.example)
 
 Frontend example:
-
 ```env
-VITE_API_BASE_URL=https://your-backend-name.koyeb.app/api
+VITE_API_BASE_URL=https://your-backend-name.onrender.com/api
 ```
 
 Backend example:
-
 ```env
 PORT=5000
 MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/trackafarm
@@ -100,37 +94,26 @@ EMAIL_PASS=your-app-password
 
 ## 5. Important Notes
 
-- MongoDB Atlas must allow connections from Koyeb. For a quick start, you can temporarily allow `0.0.0.0/0` in Atlas network access.
-- If Gmail email sending fails, use a Gmail App Password, not your normal Gmail password.
-- The frontend calls the backend using `VITE_API_BASE_URL`, so make sure it ends with `/api`.
-- If you change your Vercel URL later, update `CLIENT_URL` in Koyeb and redeploy.
+- **MongoDB Atlas:** Must allow connections from your hosting provider. For a quick start, allow `0.0.0.0/0` in Atlas network access.
+- **API URL:** The frontend calls the backend using `VITE_API_BASE_URL`. Ensure it ends with `/api`.
+- **CORS:** If you get a CORS error, double-check that `CLIENT_URL` in your backend environment variables matches your Vercel URL exactly.
 
 ## Local Development
 
-Frontend:
-
+### Frontend:
 ```bash
 cd client
 npm install
 npm run dev
 ```
 
-Backend:
-
+### Backend:
 ```bash
 cd server
 npm install
 npm run dev
 ```
 
-Local frontend env:
-
-```env
-VITE_API_BASE_URL=http://localhost:5000/api
-```
-
-Local backend env:
-
-```env
-CLIENT_URL=http://localhost:5173
-```
+### Local Environment:
+- Frontend: `VITE_API_BASE_URL=http://localhost:5000/api`
+- Backend: `CLIENT_URL=http://localhost:5173`
